@@ -65,7 +65,7 @@
   --color-button-text: #f7f9f9;
   --color-ghost-button-text: var(--color-button-text);
   --color-verified: #79bd9a;
-  --color-destructive: #df405a;
+  --color-destructive: #a240df;
   --color-light-fuchsia-pink: #ff8cfd;
   --color-hashtag: var(--color-accent);
   --color-mention: var(--color-accent);
@@ -232,18 +232,18 @@ body.theme-default.layout-single-column {
   --m-logo: url('../images/theme/m_logo_light.png');
   --color-column: rgba(255, 255, 255, 0.4);
 
-  --color-brand-mastodon: #be2a4d;
-  --color-brand-mastodon-links: #df98a2;
-  --color-accent-dark-50: #be2a4d80;
+  --color-brand-mastodon: #9c95c3;
+  --color-brand-mastodon-links: #c998df;
+  --color-accent-dark-50: #9c95c380;
 
-  --color-accent:#df98a2;
-  --color-accent-dark: #be2a4d;
+  --color-accent:#c998df;
+  --color-accent-dark: #9c95c3;
 
   --color-border: #e9dee0;
   --color-dim: #c16c80;
 
   --color-mud: #f0dee2;
-  --color-light-purple: #df98a2;
+  --color-light-purple: #c998df;
   
   --color-bg-compose-form: rgb(192 108 128 / .2);
   --color-bg-compose-form-focus: rgb(192 108 128/ .4);

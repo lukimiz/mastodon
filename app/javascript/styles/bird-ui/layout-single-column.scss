@@ -54,7 +54,7 @@
   --color-button-text: #f7f9f9;
   --color-ghost-button-text: var(--color-button-text);
   --color-verified: #79bd9a;
-  --color-destructive: #df405a;
+  --color-destructive: #a240df;
   --color-light-fuchsia-pink: #ff8cfd;
   --color-hashtag: var(--color-accent);
   --color-mention: var(--color-accent);
@@ -218,12 +218,12 @@ body.theme-bird-ui-light.layout-single-column {
   --active-header-radial-gradient: radial-gradient(ellipse,rgb(239, 154, 154 / 25%) 0,rgb(255, 0 ,81 / 0%) 60%);
 
   
-  --color-brand-mastodon: #be2a4d;
-  --color-brand-mastodon-links: #df98a2;
-  --color-accent-dark-50: #be2a4d80;
+  --color-brand-mastodon: #9c95c3;
+  --color-brand-mastodon-links: #c998df;
+  --color-accent-dark-50: #9c95c380;
 
-  --color-accent:#df98a2;
-  --color-accent-dark: #be2a4d;
+  --color-accent:#c998df;
+  --color-accent-dark: #9c95c3;
 
 
   --color-bg: #fff;
@@ -254,7 +254,7 @@ body.theme-bird-ui-light.layout-single-column {
   --color-thread-line: #e1e8ed;
   --color-topaz: #8899a6;
 
-  --color-light-purple: #df98a2;
+  --color-light-purple: #c998df;
   
   --color-dark-electric-blue: #9088a6;
   --color-bg-75: #ffffffbf;
